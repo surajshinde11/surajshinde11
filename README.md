@@ -167,3 +167,10 @@ Responsive e-commerce application with React Hooks, dynamic cart management, and
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
 
 </div>
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/surajshinde11/surajshinde11/output/github-contribution-grid-snake-dark.svg" />
+
+</p>
